@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>28407197356-0knn42cg9pbjbg7t6s83h03bn4bjnm48.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.28407197356-0knn42cg9pbjbg7t6s83h03bn4bjnm48</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCM5cTl3X8rrzdyVZE_nOm7XogpZzgEb64</string>
+	<key>GCM_SENDER_ID</key>
+	<string>28407197356</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>jesusgrimaldo.MoviesCoppel</string>
+	<key>PROJECT_ID</key>
+	<string>moviescoppel</string>
+	<key>STORAGE_BUCKET</key>
+	<string>moviescoppel.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:28407197356:ios:e51b59766b242182123909</string>
+</dict>
+</plist>
